@@ -1,17 +1,17 @@
 # Kubernetes_Cluster_Management
 
-<h4>This is the *Advance Level* DevOps project. Very good for the students and the tech freshers who wants to build their carrier in DevOps domain</h4>
+This is the *"Advanced Level"* DevOps project. Very good for the students and the tech freshers who wants to build their carrier in DevOps domain
 
-<h3>Objective:</h3>
-Deploy and manage applications on kubernetes with autoscaling and load balancing.
+<h3>Objective :</h3>
+<h4>Deploy and manage applications on kubernetes with autoscaling and load balancing.</h4>
 
-<h3>Implementation Steps</h3>
-1. Set up Kubernetes cluster on AWS EKS
-2. Create deployment and service manifests
-3. Configure horizontal pod autoscaling
-4. Implement load balancing with ingress
-5. Set up persistent volumes
-6. Monitor cluster health and performance
+<h3>Implementation Steps :</h3>
+<h4>1. Set up Kubernetes cluster on AWS EKS</br>
+2. Create deployment and service manifests</br>
+3. Configure horizontal pod autoscaling</br>
+4. Implement load balancing with ingress</br>
+5. Set up persistent volumes</br>
+6. Monitor cluster health and performance</h4>
 
 
 <h2>Learn.......Practice........Apply</h2>
