@@ -2,7 +2,7 @@
 
 This is the *"Advanced Level"* DevOps project.
 
-<h3>Objective :</h3> <h4>Deploy and manage applications on kubernetes with autoscaling and load balancing.</h4>
+<h3>Objective : Deploy and manage applications on kubernetes with autoscaling and load balancing.</h3> <h4>Deploy and manage applications on kubernetes with autoscaling and load balancing.</h4>
 
 <p align= "center"><img src="https://github.com/ROHAN0011/Kubernetes_Cluster_Management/blob/main/Architecture%20of%20Kubernetes%20Cluster%20Management.png" width="1000" height="900"></p>
 
