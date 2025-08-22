@@ -7,9 +7,9 @@ This is the *"Advanced Level"* DevOps project.
 
 <p align= "center"><img src="https://github.com/ROHAN0011/Kubernetes_Cluster_Management/blob/main/Architecture%20of%20Kubernetes%20Cluster%20Management.png" width="1000" height="800"></p>
 
-<p align= "center"><img src="https://github.com/ROHAN0011/Kubernetes_Cluster_Management/blob/main/Kubernetes%20Scaling%20Out.png" width="800" height="600"></p>
+<p align= "center"><img src="https://github.com/ROHAN0011/Kubernetes_Cluster_Management/blob/main/Kubernetes%20Scaling%20Out.png" width="700" height="500"></p>
 
-<p align= "center"><img src="https://github.com/ROHAN0011/Kubernetes_Cluster_Management/blob/main/Kubernetes%20Scaling%20In.png" width="800" height="600"></p>
+<p align= "center"><img src="https://github.com/ROHAN0011/Kubernetes_Cluster_Management/blob/main/Kubernetes%20Scaling%20In.png" width="700" height="500"></p>
 
 <h3>Implementation Steps :</h3>
 <h4>(1) Set up Kubernetes cluster on AWS EKS</br>
