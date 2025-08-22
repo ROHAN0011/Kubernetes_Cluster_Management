@@ -5,7 +5,7 @@
 <h3>Objective:</h3>
 Deploy and manage applications on kubernetes with autoscaling and load balancing.
 
-Implementation Steps
+<h3>Implementation Steps</h3>
 1. Set up Kubernetes cluster on AWS EKS
 2. Create deployment and service manifests
 3. Configure horizontal pod autoscaling
