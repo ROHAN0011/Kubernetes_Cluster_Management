@@ -2,8 +2,16 @@
 
 <h4>This is the *Advance Level* DevOps project. Very good for the students and the tech freshers who wants to build their carrier in DevOps domain</h4>
 
-Objective:
+<h3>Objective:</h3>
 Deploy and manage applications on kubernetes with autoscaling and load balancing.
+
+Implementation Steps
+1. Set up Kubernetes cluster on AWS EKS
+2. Create deployment and service manifests
+3. Configure horizontal pod autoscaling
+4. Implement load balancing with ingress
+5. Set up persistent volumes
+6. Monitor cluster health and performance
 
 
 <h2>Learn.......Practice........Apply</h2>
