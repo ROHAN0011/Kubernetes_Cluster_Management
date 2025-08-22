@@ -1,6 +1,6 @@
 # Kubernetes_Cluster_Management
 
-This is the *"Advanced Level"* DevOps project. Very good for the students and the tech freshers who wants to build their carrier in DevOps domain
+This is the *"Advanced Level"* DevOps project.
 
 <h3>Objective :</h3>
 <h4>Deploy and manage applications on kubernetes with autoscaling and load balancing.</h4>
